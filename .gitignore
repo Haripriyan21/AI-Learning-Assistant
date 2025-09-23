@@ -59,6 +59,9 @@ jspm_packages/
 
 # next.js build output
 .next
+frontend/.next/
+frontend/out/
+frontend/.vercel/
 
 # nuxt.js build output
 .nuxt
@@ -96,3 +99,5 @@ Thumbs.db
 
 # Prisma
 prisma/migrations/
+prisma/dev.db
+prisma/*.db-journal

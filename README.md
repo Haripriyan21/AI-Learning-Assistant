@@ -21,7 +21,7 @@ Built using **Next.js + Supabase** and designed to make learning smarter and mor
 
 ## 🎥 Demo & Screenshots
 
-👉 [Live Demo ]()  
+👉 [Live Demo ](https://github.com/user-attachments/assets/ffc8f7a5-36c6-4873-843a-bbca68adf180)  
 
 | Dashboard | AI Chat | Learning Plan |
 |-----------|---------|---------------|
